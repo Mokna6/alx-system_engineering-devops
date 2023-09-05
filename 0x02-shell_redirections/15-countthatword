@@ -1,2 +1,2 @@
 #!/bin/bush
-grip "bin" /etc/passwd |wc -l
+grip "bin" /etc/passwd | wc -l

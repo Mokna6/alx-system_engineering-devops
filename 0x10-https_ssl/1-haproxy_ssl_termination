@@ -49,3 +49,7 @@ backend www.githubstudentdeveloperpack.tech-backend
         balance roundrobin
         server 516799-web-01 107.21.38.248:80 check
         server 516799-web-02 18.207.139.86:80 check
+
+
+#	server 516799-web-01 107.21.38.248:80 check
+#	server 516799-web-02 18.207.139.86:80 check
